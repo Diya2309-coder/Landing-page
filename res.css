@@ -1,0 +1,16 @@
+body{
+    background: url('image/color.webp')rgba(0, 0, 0, 0);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
+/* 
+.btn-btn-primary{
+    margin-top:10px ;
+}
+ */
+
+ .login:hover{
+    background-color: black;
+ }
